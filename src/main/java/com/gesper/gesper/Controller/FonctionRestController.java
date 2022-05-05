@@ -12,7 +12,7 @@ import java.util.Optional;
 @CrossOrigin(origins = "*")
 @RequestMapping("/pers")
 @RestController
-public class gitFonctionRestController {
+public class FonctionRestController {
 
     @Autowired
     FonctionDao fonctionDao;
